@@ -1,0 +1,49 @@
+
+.loginBody{
+  background: url(https://media.gettyimages.com/photos/arch-bridge-in-kromlau-picture-id539121576?s=2048x2048) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.div1{
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%,-50%);
+  background-color:white;
+  width: 30rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+.form{
+ position:relative;
+ left:50%;
+ transform: translate(-50%,0%);
+ text-align: center;
+}
+.inp{
+  border: none;
+  border-bottom: 1px black solid;
+  text-decoration: none;
+  margin-top:2rem;
+  width: 23rem;
+}
+.logo{
+  width: 15%;
+  height: auto;
+}
+.logo_name{
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  color: grey;
+}
+.signin{
+  font-family: fantasy;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.signbtn{
+  color: white;
+  background-color: blue;
+  border: none;
+  padding: 1vh;
+  margin-top: 3vh;
+}
